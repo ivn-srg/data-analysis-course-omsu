@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ivn-srg/data-analysis-course-omsu/blob/main/resources/photo_2025-02-20%2000.32.38.jpeg" alt="Лого" style="width: 200px; height: 200px;"/>
+  <img src="https://github.com/ivn-srg/data-analysis-course-omsu/blob/main/resources/photo_2025-02-20%2000.32.38.jpeg" alt="Лого" style="width: 300px; height: 300px; border-radius: 20px;"/>
 </p>
 
 # 📊 Анализ данных на Python: код с занятий 🚀
